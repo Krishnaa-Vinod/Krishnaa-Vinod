@@ -70,15 +70,15 @@ I care about reproducible pipelines, clean code, and systems that work on real h
 ### Tech Stack
 
 <p>
-  <a href="https://www.python.org"><img src="assets/generated/skills/python.svg" alt="Python" height="42"/></a>&nbsp;
-  <a href="https://isocpp.org"><img src="assets/generated/skills/cplusplus.svg" alt="C++" height="42"/></a>&nbsp;
-  <a href="https://pytorch.org"><img src="assets/generated/skills/pytorch.svg" alt="PyTorch" height="42"/></a>&nbsp;
-  <a href="https://opencv.org"><img src="assets/generated/skills/opencv.svg" alt="OpenCV" height="42"/></a>&nbsp;
-  <a href="https://www.ros.org"><img src="assets/generated/skills/ros.svg" alt="ROS" height="42"/></a>&nbsp;
-  <a href="https://www.docker.com"><img src="assets/generated/skills/docker.svg" alt="Docker" height="42"/></a>&nbsp;
-  <a href="https://www.linux.org"><img src="assets/generated/skills/linux.svg" alt="Linux" height="42"/></a>&nbsp;
-  <a href="https://git-scm.com"><img src="assets/generated/skills/git.svg" alt="Git" height="42"/></a>&nbsp;
-  <a href="https://numpy.org"><img src="assets/generated/skills/numpy.svg" alt="NumPy" height="42"/></a>
+  <a href="https://www.python.org"><img src="assets/generated/skills/python.svg" alt="Python" width="75%"/></a>&nbsp;
+  <a href="https://isocpp.org"><img src="assets/generated/skills/cplusplus.svg" alt="C++" width="75%"/></a>&nbsp;
+  <a href="https://pytorch.org"><img src="assets/generated/skills/pytorch.svg" alt="PyTorch" width="75%"/></a>&nbsp;
+  <a href="https://opencv.org"><img src="assets/generated/skills/opencv.svg" alt="OpenCV" width="75%"/></a>&nbsp;
+  <a href="https://www.ros.org"><img src="assets/generated/skills/ros.svg" alt="ROS" width="75%"/></a>&nbsp;
+  <a href="https://www.docker.com"><img src="assets/generated/skills/docker.svg" alt="Docker" width="75%"/></a>&nbsp;
+  <a href="https://www.linux.org"><img src="assets/generated/skills/linux.svg" alt="Linux" width="75%"/></a>&nbsp;
+  <a href="https://git-scm.com"><img src="assets/generated/skills/git.svg" alt="Git" width="75%"/></a>&nbsp;
+  <a href="https://numpy.org"><img src="assets/generated/skills/numpy.svg" alt="NumPy" width="75%"/></a>
 </p>
 
 <br/>
