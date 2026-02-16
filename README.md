@@ -89,7 +89,7 @@ I care about reproducible pipelines, clean code, and systems that work on real h
 
 <p align="center">
   <a href="https://github.com/Krishnaa-Vinod">
-    <img src="https://streak-stats.demolab.com?user=Krishnaa-Vinod&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="100%"/>
+    <img src="https://streak-stats.demolab.com?user=Krishnaa-Vinod&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%"/>
   </a>
 </p>
 
