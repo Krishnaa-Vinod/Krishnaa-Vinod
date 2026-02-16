@@ -94,5 +94,5 @@ I care about reproducible pipelines, clean code, and systems that work on real h
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnaa-Vinod&theme=tokyo-night&hide_border=true&radius=8" alt="Contribution Graph" width="85%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnaa-Vinod&theme=tokyo-night&hide_border=true&radius=8" alt="Contribution Graph" width="100%"/>
 </p>
