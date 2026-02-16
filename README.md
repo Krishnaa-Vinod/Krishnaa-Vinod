@@ -7,6 +7,7 @@
 </p>
 
 ## Hi, I'm Krishna Vinod
+
 <a href="https://www.linkedin.com/in/krishnaa-vinod/"><img src="assets/generated/social/linkedin.svg" alt="LinkedIn" height="18"/></a>&nbsp;&nbsp;
 <a href="https://scholar.google.com/citations?user=ayVuixoAAAAJ&hl=en"><img src="assets/generated/social/googlescholar.svg" alt="Google Scholar" height="18"/></a>&nbsp;&nbsp;
 <a href="mailto:kvinod@asu.edu"><img src="assets/generated/social/mail.svg" alt="Email" height="18"/></a>
@@ -86,9 +87,12 @@ I care about reproducible pipelines, clean code, and systems that work on real h
 
 ### GitHub Stats
 
-<!-- Remove this section if you prefer a minimal profile -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Krishnaa-Vinod&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnaa-Vinod&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165"/>
+<p align="center">
+  <a href="https://github.com/Krishnaa-Vinod">
+    <img src="https://streak-stats.demolab.com?user=Krishnaa-Vinod&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="165"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krishnaa-Vinod&theme=tokyo-night&hide_border=true&radius=8" alt="Contribution Graph" width="95%"/>
 </p>
